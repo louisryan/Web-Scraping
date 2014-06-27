@@ -22,3 +22,8 @@ CREATE TABLE `next_page_links` (
 	`next_page_url` varchar(60),
 	PRIMARY KEY (next_page_id)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 ROW_FORMAT=COMPACT;
+
+-- ------------------------------------
+--  Table structure for table
+-- ------------------------------------
+
